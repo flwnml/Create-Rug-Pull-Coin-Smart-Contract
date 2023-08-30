@@ -18,9 +18,10 @@ Are you ready to dive into the exciting world of blockchain? 🌐 Have you ever 
 
 For exclusive access to the tutorial content, behind-the-scenes insights, and hands-on guidance, reach out to us on:
 
-Personal: [Telegram](https://t.me/flwnml).
+Personal: [FLWNML](https://t.me/flwnml).
 
-Community: [Telegram](https://t.me/flwnmlcommunity).
+Community: [FLWNML Community](https://t.me/flwnmlcommunity).
 
 Your smart contract adventure begins now!
 
+Don't ever use it for scamming! Research purposes only!
