@@ -1,3 +1,4 @@
+# 2025 - UPDATED for the Latest Compilers
 # 🚀 Unveiling the Smart Contract Magic: Create Your Own Rug Pull Coin!
 
 Are you ready to dive into the exciting world of blockchain? 🌐 Have you ever wondered how those thrilling rug pull coins are crafted? Look no further, because we've got the ultimate tutorial that will take you on a roller-coaster ride through the creation of your very own rug pull coin smart contract!
